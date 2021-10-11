@@ -11,7 +11,7 @@ var flickrPage = require('./routes/flickr');
 
 var app = express();
 
-const hostname = '127.0.0.1';
+const hostname = '13.55.1.248';
 const port = 3000;
 
 // view engine setup
