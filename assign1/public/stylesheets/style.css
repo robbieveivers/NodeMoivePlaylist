@@ -1,0 +1,115 @@
+body {
+  font: 15px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("../images/flowing_clouds.jpg");
+
+}
+
+header {
+
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+	color:#0000EE;
+	text-decoration: underline;
+}
+
+#movieInfo {
+	display: inline-block;
+	padding: 5px;
+	border-style: solid;
+	border-width: thin;
+}
+
+.searchForm {
+	text-align: center;
+	align-content: center;
+}
+
+#pageSubtitle {
+	font:font: 25px "Lucida Grande", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+
+.movieLabels {
+	font: 25px "Lucida Grande", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+.movieDetails {
+	font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+.linkButton {
+	-webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    align-self: center;
+	align-items: center;
+	align-content: center;
+    text-decoration: none;
+    color: initial;
+    text-align: center;
+}
+
+.photoGallery {
+	display: inline-block;
+	padding: 5px;
+	border-style: solid;
+	border-width: thin;
+}
+
+.photoGallery:hover {
+	border: 1px solid #777;
+}
+
+.homeBTN {
+	position: absolute;
+	left: 25%;
+	top: 72px;
+	width: 70px;
+	height:40px;
+	text-decoration: none;
+	display: block;
+	font-size: 20px; 
+}
+
+#imagesRet {
+	text-align: center;
+}
+
+#movieSearch {
+	align-self: center;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+
+.itemBackground {
+	padding: 50px;
+	border-style: solid;
+	border-width: 2px;
+	background: rgba(236, 237, 235, 0.6);
+	border-radius: 25px;
+}
+
+#successBtn {
+	position: absolute;
+	text-align: center;
+    top: 45%;
+    left:45%;
+    width: 200px;
+    height: 200px;
+}
+
